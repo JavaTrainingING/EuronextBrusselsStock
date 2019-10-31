@@ -1,6 +1,6 @@
-# EuronextBrusselsStock
-EuronextBrusselsStock
-Back-end Assessment
+#AdvanceJavaTraining@ING-OCT19 : Backend Assignment :  EuronextBrusselsStock
+
+#Assignment Description
 We would like you to create a Java based back-end application(REST API) the stocks listed in Euronext Brussels stock exchange(https://live.euronext.com/markets/brussels/equities/list).
 
 It should contain the following REST endpoints:
@@ -18,3 +18,7 @@ Treat this application as a real MVP that should go to production.
 
 Version Control
 Commit the code to Github into your branch.
+
+
+## Front-end Assessment
+Create the web application(Front-end) to consume above mentioned REST API(Choose any language of your choice to develop the front-end application).
