@@ -1,7 +1,7 @@
 package resource;
 
 public class StockResource {
-    // Create
-    // Call service class for create
-    // Add end points
+    // Create endpoints here
+    // Call service class methods under resources
+
 }

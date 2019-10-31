@@ -1,7 +1,7 @@
 package connection;
 
 public class ConnectionFactory {
-    // Open
-    // Close
+    // Add code to Open DB Connection
+    // Add code to Close DB Connection
 
 }

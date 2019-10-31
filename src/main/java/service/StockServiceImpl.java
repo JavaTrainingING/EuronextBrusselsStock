@@ -1,5 +1,5 @@
 package service;
 
 public class StockServiceImpl {
-    // Create metthod
+    // implement abstract methods and write business logic
 }

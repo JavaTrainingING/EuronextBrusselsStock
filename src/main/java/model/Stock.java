@@ -1,6 +1,6 @@
 package model;
 
 public class Stock {
-    //pojo
-    // getter and setter
+    // create your pojo
+    // add getters and setters
 }

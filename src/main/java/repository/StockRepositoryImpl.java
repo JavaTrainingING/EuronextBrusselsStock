@@ -1,9 +1,10 @@
 package repository;
 
 public class StockRepositoryImpl {
-    // Create
-    // DB Connect
-    // stock obj pass from service
-    //insert query execute
+    // Implement the abstract methods
+    // code to Connect DB
+    //Add sql queries
+    // Receive the objects passed  from service class
+
 
 }
